@@ -1,0 +1,17 @@
+*.o
+*.log
+*.log.*
+.DS_Store
+._*
+/core
+/core.*
+zlog-cfg-cur
+
+flor/flor_sender
+flor/flor_receiver
+sail-agent/sail_sender
+sail-agent/sail_receiver
+rc_baseline/rc_sender
+rc_baseline/rc_receiver
+sail-p4/sail_ctrl
+sail-p4/test

@@ -1,0 +1,9 @@
+*.log
+*.log.*
+._*
+zlog-cfg-cur
+sail_ctrl
+test
+bf_drivers.log*
+build/
+sail copy.p4
